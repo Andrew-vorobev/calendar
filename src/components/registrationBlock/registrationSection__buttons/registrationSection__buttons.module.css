@@ -1,0 +1,20 @@
+.registarationSection__buttons{
+    display: flex;
+    margin-bottom: 45px;
+  }
+.registarationSection__buttons button{
+    margin-right: 32px;
+    background-color: transparent;
+    border: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #4C2818;
+    padding-bottom: 2px;
+  }
+.registarationSection__buttons button:hover{
+    border-bottom: 2px solid rgba(76, 40, 24, 1);
+    padding-bottom: 0px;
+}

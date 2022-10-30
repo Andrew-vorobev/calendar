@@ -27,105 +27,8 @@ code {
   margin: 110px auto 0 auto;
 
 }
-.registaration-section_container h1{
-  text-align: center;
-  font-family: 'Oswald';  
-  font-style: normal;
-  font-weight: 300;
-  font-size: 64px;
-  line-height: 22px;
-  margin-bottom: 80px;
-}
-.registaration-section_input-buttons{
-  display: flex;
-  margin-bottom: 45px;
-}
-.registaration-section_input-buttons button:first-child{
-  margin-left: -6px;
-}
-.registaration-section_input-buttons button{
-  margin-right: 35px;
-  border: none;
-  background-color: transparent;
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 22px;
-  padding-bottom: 2px;
-}
-.registaration-section_input-buttons button:hover{
-  border-bottom: 2px solid rgba(76, 40, 24, 1);
-  padding-bottom: 0px;
-}
-.registaration-section_user-data{
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-.login-input_container, .password-input_container{
-  width: 100%;
-  position: relative;
-  margin-bottom: 30px;
-}
-.password-input_container{
-  margin-bottom: 45px;
-}
-.login-input, .password-input{
-  width: 100%;
-  height: 40px;
-  padding-left: 20px;
-}
-.login-input_container img, .password-input_container img{
-  position: absolute;
-  margin-top: 13px;
-  margin-left: 4px;
-  width:13px ;
-  height:13px ;
-}
-.remember-me_cotainer{
-  display: flex;
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 22px;
-  margin-bottom: 45px;
-}
-.entry-button, .registaration-button{
-  width: 120px;
-  height: 30px;
-  background-color: rgba(76, 40, 24, 1);
-  color: aliceblue;
-}
-.registaration-button{
-  width: 190px;
-}
 
-.registrantion > input{
-  width: 100%;
-  height: 40px;
-  margin-bottom: 30px;
-}
-.recovery-input_container{
-  position: relative;
-  width: 100%;
-  margin-bottom: 45px;
-  
-}
-.recovery-input_container input{
-  height: 30px;
-  width: 100%;
-  padding-left: 20px;
-}
-.recovery-input_container img{
-  position: absolute;
-  margin-top: 9px;
-  margin-left: 4px;
-  width:13px ;
-  height:13px ;
-  
-}
+/*
 .questions-icon{
   width: 36px;
   height: 36px;
@@ -149,3 +52,4 @@ code {
 .change-languageicon img{
   width: 100%;
 }
+*/

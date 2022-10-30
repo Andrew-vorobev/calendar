@@ -1,0 +1,9 @@
+.rememberMe_cotainer{
+    display: flex;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 45px;
+  }
